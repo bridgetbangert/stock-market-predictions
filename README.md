@@ -1,4 +1,4 @@
-# **Stock Market Forecasting with LSTM**
+# **Stock Market Forecasting**
 
 This project aims to predict stock market prices for a variety of different time granularities. So far, we have chosen **LSTM** (Long Short-Term Memory) models for **short-term predictions**, based on literature supporting their effectiveness for time series forecasting.
 
